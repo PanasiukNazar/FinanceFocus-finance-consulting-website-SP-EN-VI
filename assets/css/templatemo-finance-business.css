@@ -777,7 +777,9 @@ ul.slick-dots {
     color: #a4c639;
 }
 .testimonial-item img {
-    max-width: 60px;
+    max-width: 100px;
+    height: 100px;
+    object-fit: cover;
     border-radius: 50%;
     margin: 25px auto 0px auto;
 }
